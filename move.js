@@ -80,6 +80,6 @@ function handleDirectionChange(direction){
     }
 }
 
-move(character).moveWithArrowKeys(100, 250, handleDirectionChange)
+moveWithArrowKeys(100, 250, handleDirectionChange)
 
 
